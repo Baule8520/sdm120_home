@@ -1,5 +1,3 @@
-
-from sqlite3 import Timestamp
 import sdm_modbus, configparser
 from time import sleep
 from influxdb import InfluxDBClient
